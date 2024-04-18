@@ -1,1 +1,1 @@
-Kya re bhadwe
+I am Going to start my React in the guidance of Ranjan Chauhan 
